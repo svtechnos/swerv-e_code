@@ -1,2 +1,2 @@
 # swerv-e_code
-A simple Arduino code which can drive a miniature swerve-drive robot using two Arduino Megas.
+A simple Arduino code which can drive a miniature swerve-drive robot using two Arduino Megas. One is mounted with a controller hat while the other is connected to the servos and motor driver. They use a radio to communicate. The robot has 4 servos and 4 brushed motors and the CAD file is attatched above. The code enables the robot to translate like a crab and rotate in place. The top yellow button on the hat will switch between modes. The right blue button will turn the robot 90 degrees and create an offset so that the defintion of forward on the robot will change to stay in front of the driver. The potentiometer on the hat also creates an offset.  
